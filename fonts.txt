@@ -1,0 +1,11 @@
+Arial ./fonts/arial/arial.ttf
+ArialBd ./fonts/arial/arialbd.ttf
+ArialI ./fonts/arial/ariali.ttf
+ArialBI ./fonts/arial/arialbi.ttf
+ArialBlack ./fonts/arial/arialblk.ttf
+ArialRounded ./fonts/arial/ARIALRDBD.TTF
+ArialNarrow ./fonts/arial/ARIALN.TTF
+ArialNarrowB ./fonts/arial/ARIALN.TTF
+ArialNarrowBI ./fonts/arial/ARIALNBI.TTF
+ArialNarrowI ./fonts/arial/ARIALNI.TTF
+ArialUnicode ./fonts/arial/ARIALUNI.TTF
