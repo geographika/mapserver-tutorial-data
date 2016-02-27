@@ -1,0 +1,41 @@
+MAP
+    IMAGETYPE png
+    SIZE 800 800
+    UNITS DD
+    EXTENT -180 -90 180 90
+    WEB
+        IMAGEPATH "/tmp/"
+        METADATA
+            "wms_title"           "WMS Demo Server"
+            "wms_onlineresource"  "http://demo.mapserver.org/cgi-bin/mapserv70?"
+            "wms_srs"             "EPSG:4326"
+            "ows_enable_request"  "*"
+        END
+    END
+    PROJECTION
+        "init=epsg:4326"
+    END
+
+    # START OF THE LAYER DEFINITION
+    LAYER
+        NAME 'land'
+        TYPE POLYGON
+        PROJECTION
+            'init=epsg:4326'
+        END
+        DATA 'data/natural_earth/110m_physical/ne_110m_land/ne_110m_land'
+        # START OF THE CLASS DEFINITION
+        CLASS
+            # START OF THE STYLE DEFINITION
+            STYLE
+                COLOR 238 236 223
+                OUTLINECOLOR 255 255 0
+                WIDTH 1.5
+            END
+            # END OF THE STYLE DEFINITION
+        END
+        # END OF THE CLASS DEFINITION
+    END
+    # END OF THE LAYER DEFINITION
+END
+
