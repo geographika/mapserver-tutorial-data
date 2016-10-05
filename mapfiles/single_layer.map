@@ -12,13 +12,12 @@ MAP
     LAYER
         NAME 'land'
         TYPE POLYGON
-		DATA '../data/vector/naturalearth/ne_110m_land'
+        DATA '../data/vector/naturalearth/ne_110m_land'
         # START OF THE CLASS DEFINITION
         CLASS
             # START OF THE STYLE DEFINITION
             STYLE
-                #COLOR 60 179 113
-				COLOR 107 208 107
+                COLOR 107 208 107
                 OUTLINECOLOR 2 2 2
                 WIDTH 1
             END
