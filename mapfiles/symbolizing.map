@@ -1,0 +1,118 @@
+MAP
+    MAXSIZE 4096 # allow for images greater than 2048x2048 pixels to be generated
+    WEB
+        METADATA
+            "ows_enable_request"  "*"
+        END
+    END
+
+    PROJECTION
+        "init=epsg:4326"
+    END
+
+    # START OF CIRCLE SYMBOL
+    SYMBOL
+        # Symbol name (referenced in STYLEs)
+        NAME 'CIRCLE'
+        TYPE ellipse # Type of symbol
+        # START SYMBOL GEOMETRY
+        POINTS
+            1 1
+        END
+        # END SYMBOL GEOMETRY POINTS
+        # The symbol should be filled
+        FILLED true
+    END
+    # END OF CIRCLE SYMBOL
+
+    # START OF POLYGON FILL SYMBOL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+    SYMBOL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+        NAME "WAVES"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+        TYPE vector                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+        POINTS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+            0 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+            1 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+            2 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    END
+    # END OF POLYGON FILL SYMBOL 
+
+    # START OF IMAGE SYMBOL  
+    SYMBOL
+        NAME "map_pin"
+        TYPE pixmap
+        IMAGE "map_pin.png"
+    END # END OF IMAGE SYMBOL 
+
+    LAYER
+        NAME 'land'
+        TYPE POLYGON
+        DATA '../data/vector/naturalearth/ne_110m_land'
+        CLASS
+            GROUP 'style1'
+            STYLE
+                COLOR 107 208 107
+                OUTLINECOLOR 2 2 2
+                WIDTH 1
+            END
+        END
+        CLASS
+            GROUP 'style2'
+            STYLE
+                COLOR 238 236 223
+                OUTLINECOLOR 255 255 0
+                WIDTH 1.5
+            END
+        END
+    END
+
+    LAYER
+        NAME 'ocean'
+        TYPE POLYGON
+        DATA '../data/vector/naturalearth/ne_10m_ocean'
+        CLASS
+            GROUP 'style1'
+            STYLE
+                SYMBOL "WAVES"
+                COLOR 198 226 242
+                SIZE 6
+                WIDTH 2
+            END
+        END
+        CLASS
+            GROUP 'style2'
+            STYLE
+                COLOR 198 226 242
+            END
+        END
+    END
+
+    # START PLACES LAYER
+    LAYER
+        NAME 'places'
+        TYPE POINT
+        DATA '../data/vector/naturalearth/ne_110m_populated_places'
+
+        CLASS
+            GROUP "style1"
+            STYLE
+                # Choose the symbol to use. This must correspond to the NAME of a SYMBOL object.
+                SYMBOL 'CIRCLE'
+                # Set the color in which the symbol will be filled
+                COLOR  255 153 51
+                # Set the size of the symbol
+                SIZE 8
+                OUTLINECOLOR 2 2 2
+            END
+        END
+
+        CLASS
+            GROUP "style2"
+            STYLE
+                SYMBOL 'map_pin'
+                SIZE 16
+            END        
+        END
+    END
+    # END PLACES LAYER
+END
