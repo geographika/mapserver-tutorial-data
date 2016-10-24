@@ -2,7 +2,7 @@ MAP
     MAXSIZE 4096 # allow for images greater than 2048x2048 pixels to be generated
     WEB
         METADATA
-            'ows_enable_request'  '*'
+            'wms_enable_request'  '*'
         END
     END
 
@@ -46,6 +46,7 @@ MAP
         NAME 'land'
         TYPE POLYGON
         DATA '../data/vector/naturalearth/ne_110m_land'
+        CLASSGROUP 'style1' # this is the default style to use
         CLASS
             GROUP 'style1'
             STYLE
@@ -68,6 +69,7 @@ MAP
         NAME 'ocean'
         TYPE POLYGON
         DATA '../data/vector/naturalearth/ne_10m_ocean'
+        CLASSGROUP 'style1' # this is the default style to use
         CLASS
             GROUP 'style1'
             STYLE
@@ -90,6 +92,7 @@ MAP
         NAME 'places'
         TYPE POINT
         DATA '../data/vector/naturalearth/ne_110m_populated_places'
+        CLASSGROUP 'style1' # this is the default style to use
         CLASS
             GROUP 'style1'
             STYLE
