@@ -1,0 +1,84 @@
+MAP
+    MAXSIZE 4096 # allow for images greater than 2048x2048 pixels to be generated
+	
+    # path to the folder containing the epsg projections file 
+    # this path is relative to the MAP file (it can also be a full path)
+	
+	CONFIG "PROJ_LIB" "projections" 
+	
+    WEB
+        METADATA
+            'wms_enable_request'  '*'
+            # allow WMS service to serve multiple projections
+			'wms_srs' 'EPSG:3857 EPSG:4326 EPSG:54009'
+        END
+    END
+
+    PROJECTION
+        'init=epsg:4326'
+    END
+
+    SYMBOL
+        # Symbol name (referenced in STYLEs)
+        NAME 'CIRCLE'
+        TYPE ellipse # Type of symbol
+        POINTS
+            1 1
+        END      
+        FILLED true # The symbol should be filled
+    END
+
+    SYMBOL 
+        NAME 'WAVES'
+        TYPE vector    
+        POINTS         
+            0 0        
+            1 1        
+            2 0        
+        END
+    END
+
+    LAYER
+        NAME 'land'
+        TYPE POLYGON
+        DATA '../data/vector/naturalearth/ne_110m_land'
+        CLASSGROUP 'style1' # this is the default style to use
+        CLASS
+            GROUP 'style1'
+            STYLE
+                COLOR 107 208 107
+                OUTLINECOLOR 2 2 2
+                WIDTH 1
+            END
+        END
+    END
+
+    LAYER
+        NAME 'ocean'
+        TYPE POLYGON
+        DATA '../data/vector/naturalearth/ne_10m_ocean'
+        CLASS
+            GROUP 'style1'
+            STYLE
+                SYMBOL 'WAVES'
+                COLOR 198 226 242
+                SIZE 6 # the height of the symbol
+                WIDTH 1 # the width of the vector line
+            END
+        END
+    END
+
+    LAYER
+        NAME 'places'
+        TYPE POINT
+        DATA '../data/vector/naturalearth/ne_110m_populated_places'
+        CLASS
+            STYLE
+                SYMBOL 'CIRCLE' # this must correspond to the NAME of a SYMBOL object
+                COLOR  255 153 51 # the color in which the symbol will be filled
+                SIZE 8 # the size of the symbol
+                OUTLINECOLOR 2 2 2
+            END
+        END
+    END
+END
