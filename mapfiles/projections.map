@@ -1,22 +1,43 @@
 MAP
     MAXSIZE 4096 # allow for images greater than 2048x2048 pixels to be generated
 	
+    # START OF CONFIG
     # path to the folder containing the epsg projections file 
-    # this path is relative to the MAP file (it can also be a full path)
-	
-	CONFIG "PROJ_LIB" "projections" 
-	
+    # this path is relative to the MAP file (it can also be a full path)	
+    CONFIG "PROJ_LIB" "projections" 
+    # END OF CONFIG
+    	
+    # START OF WEB OBJECT
     WEB
         METADATA
             'wms_enable_request'  '*'
-            # allow WMS service to serve multiple projections
-			'wms_srs' 'EPSG:3857 EPSG:4326 EPSG:54009'
+            # Allow WMS service to serve multiple projections
+            # Only EPSG, AUTO2, CRS codes are supported as part of WMS 1.3.0
+            'wms_srs' 'EPSG:4326 EPSG:3857 EPSG:54009'
         END
     END
+    # END OF WEB OBJECT
 
+    # START OF PROJECTION OBJECT
     PROJECTION
-        'init=epsg:4326'
+        # this references the epsg file in the folder specified by CONFIG "PROJ_LIB" 
+        'init=epsg:4326' 
     END
+
+    # An alternate way to specify the projection is "inline"
+    # You can find this definition at https://epsg.io/4326.map
+
+    #PROJECTION
+	#    "proj=longlat"
+	#    "datum=WGS84"
+	#    "no_defs"
+    #END
+
+    # END OF PROJECTION OBJECT
+
+    # START OF MAP EXTENT
+    EXTENT -180 -90 180 90
+    # END OF MAP EXTENT
 
     SYMBOL
         # Symbol name (referenced in STYLEs)
@@ -72,6 +93,13 @@ MAP
         NAME 'places'
         TYPE POINT
         DATA '../data/vector/naturalearth/ne_110m_populated_places'
+        # START OF LAYER EXTENT
+        EXTENT -41.3 -175.221 64.15 179.217
+        METADATA
+            # For WMS layers this value takes precedent over the LAYER'S EXTENT setting
+            'wms_extent' '-41 -175 64 179'
+        END
+        # END OF LAYER EXTENT
         CLASS
             STYLE
                 SYMBOL 'CIRCLE' # this must correspond to the NAME of a SYMBOL object
