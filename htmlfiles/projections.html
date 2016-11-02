@@ -62,6 +62,14 @@
     <div id="map" class="map"></div>
     <script>
 
+        // add endsWith function for older browsers
+
+        if (typeof String.prototype.endsWith !== 'function') {
+            String.prototype.endsWith = function (suffix) {
+                return this.indexOf(suffix, this.length - suffix.length) !== -1;
+            }
+        };
+
         // the projection code below is really ESRI:54009 but all codes must be in EPSG namespace
         proj4.defs("EPSG:54009", "+proj=moll +lon_0=0 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs");
 
