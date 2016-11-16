@@ -1,0 +1,863 @@
+[Tue Nov 15 09:59:56 2016].981000 CGI Request 1 on process 8680
+[Tue Nov 15 09:59:56 2016].988000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 09:59:56 2016].988000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 09:59:56 2016].991000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 09:59:57 2016].236000 msDrawMap(): Layer 0 (raster), 0.248s
+[Tue Nov 15 09:59:57 2016].236000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 09:59:57 2016].236000 msDrawMap() total time: 0.255s
+[Tue Nov 15 09:59:57 2016].694000 msSaveImage(stdout) total time: 0.458s
+[Tue Nov 15 09:59:57 2016].696000 mapserv request processing time (msLoadMap not incl.): 0.715s
+[Tue Nov 15 09:59:57 2016].696000 msFreeMap(): freeing map at 05E0B1F8.
+[Tue Nov 15 10:00:01 2016].335000 CGI Request 1 on process 8060
+[Tue Nov 15 10:00:01 2016].341000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:00:01 2016].341000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:00:01 2016].344000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:00:01 2016].432000 msDrawMap(): Layer 0 (raster), 0.091s
+[Tue Nov 15 10:00:01 2016].432000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:00:01 2016].432000 msDrawMap() total time: 0.096s
+[Tue Nov 15 10:00:01 2016].818000 msSaveImage(stdout) total time: 0.386s
+[Tue Nov 15 10:00:01 2016].820000 mapserv request processing time (msLoadMap not incl.): 0.485s
+[Tue Nov 15 10:00:01 2016].820000 msFreeMap(): freeing map at 061EB220.
+[Tue Nov 15 10:01:02 2016].237000 CGI Request 1 on process 6560
+[Tue Nov 15 10:01:02 2016].241000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:01:02 2016].242000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:01:02 2016].244000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:01:02 2016].633000 msDrawMap(): Layer 0 (raster), 0.391s
+[Tue Nov 15 10:01:02 2016].633000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:01:02 2016].633000 msDrawMap() total time: 0.396s
+[Tue Nov 15 10:01:03 2016].178000 msSaveImage(stdout) total time: 0.545s
+[Tue Nov 15 10:01:03 2016].179000 mapserv request processing time (msLoadMap not incl.): 0.942s
+[Tue Nov 15 10:01:03 2016].179000 msFreeMap(): freeing map at 0620B200.
+[Tue Nov 15 10:01:03 2016].353000 CGI Request 1 on process 9368
+[Tue Nov 15 10:01:03 2016].359000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:01:03 2016].359000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:01:03 2016].363000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:01:03 2016].599000 msDrawMap(): Layer 0 (raster), 0.240s
+[Tue Nov 15 10:01:03 2016].599000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:01:03 2016].599000 msDrawMap() total time: 0.246s
+[Tue Nov 15 10:01:04 2016].166000 msSaveImage(stdout) total time: 0.567s
+[Tue Nov 15 10:01:04 2016].167000 mapserv request processing time (msLoadMap not incl.): 0.814s
+[Tue Nov 15 10:01:04 2016].167000 msFreeMap(): freeing map at 0610B158.
+[Tue Nov 15 10:01:05 2016].741000 CGI Request 1 on process 9768
+[Tue Nov 15 10:01:05 2016].741000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:05 2016].744000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:05 2016].753000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:01:05 2016].753000 mapserv request processing time (msLoadMap not incl.): 0.012s
+[Tue Nov 15 10:01:05 2016].753000 msFreeMap(): freeing map at 0621B7A8.
+[Tue Nov 15 10:01:10 2016].735000 CGI Request 1 on process 7468
+[Tue Nov 15 10:01:10 2016].736000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:10 2016].739000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:10 2016].746000 mapserv request processing time (msLoadMap not incl.): 0.011s
+[Tue Nov 15 10:01:10 2016].746000 msFreeMap(): freeing map at 0626B7A8.
+[Tue Nov 15 10:01:18 2016].179000 CGI Request 1 on process 9476
+[Tue Nov 15 10:01:18 2016].179000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:18 2016].182000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:18 2016].189000 mapserv request processing time (msLoadMap not incl.): 0.010s
+[Tue Nov 15 10:01:18 2016].189000 msFreeMap(): freeing map at 0624B7C8.
+[Tue Nov 15 10:01:20 2016].336000 CGI Request 1 on process 3068
+[Tue Nov 15 10:01:20 2016].336000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:20 2016].339000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:20 2016].351000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:01:20 2016].351000 mapserv request processing time (msLoadMap not incl.): 0.015s
+[Tue Nov 15 10:01:20 2016].351000 msFreeMap(): freeing map at 0622B7A8.
+[Tue Nov 15 10:01:22 2016].827000 CGI Request 1 on process 8624
+[Tue Nov 15 10:01:22 2016].828000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:22 2016].832000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:22 2016].841000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:01:22 2016].841000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 10:01:22 2016].841000 msFreeMap(): freeing map at 05E2B7A8.
+[Tue Nov 15 10:01:24 2016].640000 CGI Request 1 on process 8932
+[Tue Nov 15 10:01:24 2016].640000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:24 2016].643000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:24 2016].651000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:01:24 2016].651000 mapserv request processing time (msLoadMap not incl.): 0.011s
+[Tue Nov 15 10:01:24 2016].651000 msFreeMap(): freeing map at 061FB7A8.
+[Tue Nov 15 10:01:26 2016].208000 CGI Request 1 on process 9060
+[Tue Nov 15 10:01:26 2016].209000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:26 2016].212000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:26 2016].219000 mapserv request processing time (msLoadMap not incl.): 0.011s
+[Tue Nov 15 10:01:26 2016].219000 msFreeMap(): freeing map at 0617B7C8.
+[Tue Nov 15 10:01:50 2016].914000 CGI Request 1 on process 8264
+[Tue Nov 15 10:01:50 2016].914000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:50 2016].918000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:01:50 2016].927000 mapserv request processing time (msLoadMap not incl.): 0.013s
+[Tue Nov 15 10:01:50 2016].927000 msFreeMap(): freeing map at 05E7B790.
+[Tue Nov 15 10:46:01 2016].226000 msLoadMap(): Premature End-of-File. 
+[Tue Nov 15 10:46:01 2016].226000 msFreeMap(): freeing map at 05E1B248.
+[Tue Nov 15 10:46:04 2016].651000 msLoadMap(): Premature End-of-File. 
+[Tue Nov 15 10:46:04 2016].651000 msFreeMap(): freeing map at 05CFB248.
+[Tue Nov 15 10:47:02 2016].991000 msLoadMap(): Premature End-of-File. 
+[Tue Nov 15 10:47:02 2016].991000 msFreeMap(): freeing map at 05D8B248.
+[Tue Nov 15 10:47:15 2016].88000 msLoadMap(): Premature End-of-File. 
+[Tue Nov 15 10:47:15 2016].88000 msFreeMap(): freeing map at 05DEB248.
+[Tue Nov 15 10:47:16 2016].946000 msLoadMap(): Premature End-of-File. 
+[Tue Nov 15 10:47:16 2016].946000 msFreeMap(): freeing map at 05E4B248.
+[Tue Nov 15 10:47:34 2016].904000 msLoadMap(): Premature End-of-File. 
+[Tue Nov 15 10:47:34 2016].904000 msFreeMap(): freeing map at 05D0B648.
+[Tue Nov 15 10:47:59 2016].728000 CGI Request 1 on process 6404
+[Tue Nov 15 10:47:59 2016].735000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:47:59 2016].735000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:47:59 2016].739000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:47:59 2016].937000 msDrawMap(): Layer 0 (raster), 0.202s
+[Tue Nov 15 10:47:59 2016].937000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:47:59 2016].937000 msDrawMap() total time: 0.209s
+[Tue Nov 15 10:48:00 2016].330000 msSaveImage(stdout) total time: 0.393s
+[Tue Nov 15 10:48:00 2016].331000 mapserv request processing time (msLoadMap not incl.): 0.603s
+[Tue Nov 15 10:48:00 2016].331000 msFreeMap(): freeing map at 05DDB248.
+[Tue Nov 15 10:48:05 2016].530000 CGI Request 1 on process 6516
+[Tue Nov 15 10:48:05 2016].530000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:05 2016].534000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:05 2016].551000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:48:05 2016].551000 mapserv request processing time (msLoadMap not incl.): 0.021s
+[Tue Nov 15 10:48:05 2016].551000 msFreeMap(): freeing map at 05CBB618.
+[Tue Nov 15 10:48:08 2016].817000 CGI Request 1 on process 10764
+[Tue Nov 15 10:48:08 2016].817000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:08 2016].820000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:08 2016].837000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:48:08 2016].837000 mapserv request processing time (msLoadMap not incl.): 0.020s
+[Tue Nov 15 10:48:08 2016].837000 msFreeMap(): freeing map at 05CCB648.
+[Tue Nov 15 10:48:10 2016].181000 CGI Request 1 on process 5276
+[Tue Nov 15 10:48:10 2016].182000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:10 2016].185000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:10 2016].199000 mapserv request processing time (msLoadMap not incl.): 0.018s
+[Tue Nov 15 10:48:10 2016].199000 msFreeMap(): freeing map at 05E0B5C8.
+[Tue Nov 15 10:48:22 2016].451000 CGI Request 1 on process 6028
+[Tue Nov 15 10:48:22 2016].451000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:22 2016].455000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:22 2016].477000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:48:22 2016].477000 mapserv request processing time (msLoadMap not incl.): 0.026s
+[Tue Nov 15 10:48:22 2016].477000 msFreeMap(): freeing map at 05DDB618.
+[Tue Nov 15 10:48:24 2016].450000 CGI Request 1 on process 9120
+[Tue Nov 15 10:48:24 2016].466000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:48:24 2016].466000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:48:24 2016].469000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:48:24 2016].867000 msDrawMap(): Layer 0 (raster), 0.401s
+[Tue Nov 15 10:48:24 2016].867000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:48:24 2016].867000 msDrawMap() total time: 0.417s
+[Tue Nov 15 10:48:25 2016].408000 msSaveImage(stdout) total time: 0.541s
+[Tue Nov 15 10:48:25 2016].410000 mapserv request processing time (msLoadMap not incl.): 0.960s
+[Tue Nov 15 10:48:25 2016].410000 msFreeMap(): freeing map at 05D3B210.
+[Tue Nov 15 10:48:25 2016].695000 CGI Request 1 on process 8792
+[Tue Nov 15 10:48:25 2016].723000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:48:25 2016].723000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:48:25 2016].727000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:48:25 2016].917000 msDrawMap(): Layer 0 (raster), 0.194s
+[Tue Nov 15 10:48:25 2016].917000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:48:25 2016].917000 msDrawMap() total time: 0.222s
+[Tue Nov 15 10:48:26 2016].534000 msSaveImage(stdout) total time: 0.617s
+[Tue Nov 15 10:48:26 2016].535000 mapserv request processing time (msLoadMap not incl.): 0.840s
+[Tue Nov 15 10:48:26 2016].535000 msFreeMap(): freeing map at 05D5B168.
+[Tue Nov 15 10:48:27 2016].26000 CGI Request 1 on process 8624
+[Tue Nov 15 10:48:27 2016].26000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:27 2016].29000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:27 2016].36000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:48:27 2016].36000 mapserv request processing time (msLoadMap not incl.): 0.010s
+[Tue Nov 15 10:48:27 2016].36000 msFreeMap(): freeing map at 05E2B7F8.
+[Tue Nov 15 10:48:28 2016].623000 CGI Request 1 on process 6512
+[Tue Nov 15 10:48:28 2016].624000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:28 2016].627000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:28 2016].635000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:48:28 2016].635000 mapserv request processing time (msLoadMap not incl.): 0.012s
+[Tue Nov 15 10:48:28 2016].635000 msFreeMap(): freeing map at 05D6B7F8.
+[Tue Nov 15 10:48:29 2016].791000 CGI Request 1 on process 9276
+[Tue Nov 15 10:48:29 2016].792000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:29 2016].795000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:29 2016].804000 mapserv request processing time (msLoadMap not incl.): 0.013s
+[Tue Nov 15 10:48:29 2016].804000 msFreeMap(): freeing map at 05DFB7D8.
+[Tue Nov 15 10:48:33 2016].650000 CGI Request 1 on process 9800
+[Tue Nov 15 10:48:33 2016].650000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:33 2016].653000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:33 2016].662000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:48:33 2016].662000 mapserv request processing time (msLoadMap not incl.): 0.012s
+[Tue Nov 15 10:48:33 2016].662000 msFreeMap(): freeing map at 05CEB7F8.
+[Tue Nov 15 10:48:35 2016].610000 CGI Request 1 on process 4600
+[Tue Nov 15 10:48:35 2016].611000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:35 2016].615000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:48:35 2016].623000 mapserv request processing time (msLoadMap not incl.): 0.013s
+[Tue Nov 15 10:48:35 2016].623000 msFreeMap(): freeing map at 05D1B7D8.
+[Tue Nov 15 10:50:21 2016].926000 CGI Request 1 on process 4476
+[Tue Nov 15 10:50:21 2016].926000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:50:21 2016].930000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:50:21 2016].937000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:50:21 2016].937000 mapserv request processing time (msLoadMap not incl.): 0.011s
+[Tue Nov 15 10:50:21 2016].937000 msFreeMap(): freeing map at 05E6B7F8.
+[Tue Nov 15 10:50:23 2016].453000 CGI Request 1 on process 10256
+[Tue Nov 15 10:50:23 2016].453000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:50:23 2016].456000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:50:23 2016].467000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:50:23 2016].467000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 10:50:23 2016].467000 msFreeMap(): freeing map at 05D4B7F8.
+[Tue Nov 15 10:50:24 2016].669000 CGI Request 1 on process 9264
+[Tue Nov 15 10:50:24 2016].669000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:50:24 2016].673000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:50:24 2016].683000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 10:50:24 2016].683000 msFreeMap(): freeing map at 05DEB7D8.
+[Tue Nov 15 10:50:57 2016].974000 CGI Request 1 on process 9744
+[Tue Nov 15 10:50:57 2016].981000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:50:57 2016].981000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:50:57 2016].985000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:50:58 2016].84000 msDrawMap(): Layer 0 (raster), 0.103s
+[Tue Nov 15 10:50:58 2016].84000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:50:58 2016].84000 msDrawMap() total time: 0.110s
+[Tue Nov 15 10:50:58 2016].477000 msSaveImage(stdout) total time: 0.393s
+[Tue Nov 15 10:50:58 2016].478000 mapserv request processing time (msLoadMap not incl.): 0.504s
+[Tue Nov 15 10:50:58 2016].478000 msFreeMap(): freeing map at 05D9B248.
+[Tue Nov 15 10:51:00 2016].781000 CGI Request 1 on process 10012
+[Tue Nov 15 10:51:00 2016].781000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:51:00 2016].784000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:51:00 2016].801000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:51:00 2016].802000 mapserv request processing time (msLoadMap not incl.): 0.021s
+[Tue Nov 15 10:51:00 2016].802000 msFreeMap(): freeing map at 05D7B5F8.
+[Tue Nov 15 10:51:10 2016].324000 CGI Request 1 on process 7916
+[Tue Nov 15 10:51:10 2016].330000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:51:10 2016].330000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:51:10 2016].334000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:51:10 2016].427000 msDrawMap(): Layer 0 (raster), 0.097s
+[Tue Nov 15 10:51:10 2016].427000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:51:10 2016].427000 msDrawMap() total time: 0.103s
+[Tue Nov 15 10:51:10 2016].857000 msSaveImage(stdout) total time: 0.430s
+[Tue Nov 15 10:51:10 2016].859000 mapserv request processing time (msLoadMap not incl.): 0.535s
+[Tue Nov 15 10:51:10 2016].859000 msFreeMap(): freeing map at 05E1B248.
+[Tue Nov 15 10:51:12 2016].870000 CGI Request 1 on process 11108
+[Tue Nov 15 10:51:12 2016].870000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:51:12 2016].873000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:51:12 2016].889000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:51:12 2016].889000 mapserv request processing time (msLoadMap not incl.): 0.019s
+[Tue Nov 15 10:51:12 2016].889000 msFreeMap(): freeing map at 05DEB5C8.
+[Tue Nov 15 10:51:14 2016].447000 CGI Request 1 on process 10532
+[Tue Nov 15 10:51:14 2016].447000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:51:14 2016].450000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:51:14 2016].468000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:51:14 2016].468000 mapserv request processing time (msLoadMap not incl.): 0.021s
+[Tue Nov 15 10:51:14 2016].468000 msFreeMap(): freeing map at 05C8B630.
+[Tue Nov 15 10:51:16 2016].6000 CGI Request 1 on process 588
+[Tue Nov 15 10:51:16 2016].6000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:51:16 2016].10000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:51:16 2016].31000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:51:16 2016].31000 mapserv request processing time (msLoadMap not incl.): 0.025s
+[Tue Nov 15 10:51:16 2016].31000 msFreeMap(): freeing map at 05D3B630.
+[Tue Nov 15 10:51:30 2016].334000 CGI Request 1 on process 10640
+[Tue Nov 15 10:51:30 2016].340000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:51:30 2016].340000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:51:30 2016].344000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:51:30 2016].441000 msDrawMap(): Layer 0 (raster), 0.101s
+[Tue Nov 15 10:51:30 2016].441000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:51:30 2016].441000 msDrawMap() total time: 0.106s
+[Tue Nov 15 10:51:30 2016].839000 msSaveImage(stdout) total time: 0.398s
+[Tue Nov 15 10:51:30 2016].841000 mapserv request processing time (msLoadMap not incl.): 0.507s
+[Tue Nov 15 10:51:30 2016].841000 msFreeMap(): freeing map at 05CDB248.
+[Tue Nov 15 10:51:52 2016].926000 CGI Request 1 on process 8240
+[Tue Nov 15 10:51:52 2016].930000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:51:52 2016].930000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:51:52 2016].934000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:51:53 2016].28000 msDrawMap(): Layer 0 (raster), 0.098s
+[Tue Nov 15 10:51:53 2016].28000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:51:53 2016].28000 msDrawMap() total time: 0.102s
+[Tue Nov 15 10:51:53 2016].425000 msSaveImage(stdout) total time: 0.397s
+[Tue Nov 15 10:51:53 2016].427000 mapserv request processing time (msLoadMap not incl.): 0.501s
+[Tue Nov 15 10:51:53 2016].427000 msFreeMap(): freeing map at 05D2B248.
+[Tue Nov 15 10:52:02 2016].807000 CGI Request 1 on process 10464
+[Tue Nov 15 10:52:02 2016].815000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:52:02 2016].815000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:52:02 2016].818000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:52:02 2016].912000 msDrawMap(): Layer 0 (raster), 0.097s
+[Tue Nov 15 10:52:02 2016].912000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:52:02 2016].912000 msDrawMap() total time: 0.104s
+[Tue Nov 15 10:52:03 2016].317000 msSaveImage(stdout) total time: 0.405s
+[Tue Nov 15 10:52:03 2016].318000 mapserv request processing time (msLoadMap not incl.): 0.511s
+[Tue Nov 15 10:52:03 2016].318000 msFreeMap(): freeing map at 05D8B248.
+[Tue Nov 15 10:52:20 2016].256000 CGI Request 1 on process 6512
+[Tue Nov 15 10:52:20 2016].263000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:52:20 2016].263000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:52:20 2016].267000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:52:20 2016].359000 msDrawMap(): Layer 0 (raster), 0.096s
+[Tue Nov 15 10:52:20 2016].359000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:52:20 2016].359000 msDrawMap() total time: 0.102s
+[Tue Nov 15 10:52:20 2016].762000 msSaveImage(stdout) total time: 0.403s
+[Tue Nov 15 10:52:20 2016].763000 mapserv request processing time (msLoadMap not incl.): 0.507s
+[Tue Nov 15 10:52:20 2016].763000 msFreeMap(): freeing map at 05CCB248.
+[Tue Nov 15 10:52:22 2016].773000 CGI Request 1 on process 10500
+[Tue Nov 15 10:52:22 2016].773000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:22 2016].776000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:22 2016].793000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:52:22 2016].793000 mapserv request processing time (msLoadMap not incl.): 0.020s
+[Tue Nov 15 10:52:22 2016].793000 msFreeMap(): freeing map at 05D4B630.
+[Tue Nov 15 10:52:29 2016].123000 CGI Request 1 on process 8792
+[Tue Nov 15 10:52:29 2016].123000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:29 2016].127000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:29 2016].144000 mapserv request processing time (msLoadMap not incl.): 0.021s
+[Tue Nov 15 10:52:29 2016].144000 msFreeMap(): freeing map at 05DCB5F8.
+[Tue Nov 15 10:52:32 2016].659000 CGI Request 1 on process 6156
+[Tue Nov 15 10:52:32 2016].659000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:32 2016].662000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:32 2016].663000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:52:32 2016].663000 mapserv request processing time (msLoadMap not incl.): 0.004s
+[Tue Nov 15 10:52:32 2016].663000 msFreeMap(): freeing map at 05CFB648.
+[Tue Nov 15 10:52:34 2016].115000 CGI Request 1 on process 11120
+[Tue Nov 15 10:52:34 2016].116000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:34 2016].119000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:34 2016].135000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:52:34 2016].135000 mapserv request processing time (msLoadMap not incl.): 0.020s
+[Tue Nov 15 10:52:34 2016].135000 msFreeMap(): freeing map at 05E4B630.
+[Tue Nov 15 10:52:35 2016].162000 CGI Request 1 on process 10452
+[Tue Nov 15 10:52:35 2016].163000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:35 2016].166000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:35 2016].181000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:52:35 2016].181000 mapserv request processing time (msLoadMap not incl.): 0.019s
+[Tue Nov 15 10:52:35 2016].181000 msFreeMap(): freeing map at 05C8B5F8.
+[Tue Nov 15 10:52:36 2016].787000 CGI Request 1 on process 10096
+[Tue Nov 15 10:52:36 2016].788000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:36 2016].791000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:36 2016].809000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:52:36 2016].809000 mapserv request processing time (msLoadMap not incl.): 0.022s
+[Tue Nov 15 10:52:36 2016].809000 msFreeMap(): freeing map at 05D5B5F8.
+[Tue Nov 15 10:52:37 2016].776000 CGI Request 1 on process 4644
+[Tue Nov 15 10:52:37 2016].776000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:37 2016].780000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:52:37 2016].797000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:52:37 2016].797000 mapserv request processing time (msLoadMap not incl.): 0.021s
+[Tue Nov 15 10:52:37 2016].797000 msFreeMap(): freeing map at 05E0B5F8.
+[Tue Nov 15 10:54:30 2016].562000 loadClass(): Unknown identifier. Parsing error near (STYLEITEM):(line 29)
+[Tue Nov 15 10:54:30 2016].562000 msFreeMap(): freeing map at 05E5B248.
+[Tue Nov 15 10:54:37 2016].129000 loadClass(): Unknown identifier. Parsing error near (STYLEITEM):(line 29)
+[Tue Nov 15 10:54:37 2016].129000 msFreeMap(): freeing map at 05D1B5C8.
+[Tue Nov 15 10:55:00 2016].843000 CGI Request 1 on process 2612
+[Tue Nov 15 10:55:00 2016].849000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:55:00 2016].849000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:55:00 2016].852000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:55:00 2016].947000 msDrawMap(): Layer 0 (raster), 0.098s
+[Tue Nov 15 10:55:00 2016].947000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:55:00 2016].947000 msDrawMap() total time: 0.103s
+[Tue Nov 15 10:55:01 2016].393000 msSaveImage(stdout) total time: 0.446s
+[Tue Nov 15 10:55:01 2016].395000 mapserv request processing time (msLoadMap not incl.): 0.552s
+[Tue Nov 15 10:55:01 2016].395000 msFreeMap(): freeing map at 05CAB248.
+[Tue Nov 15 10:56:24 2016].952000 CGI Request 1 on process 7388
+[Tue Nov 15 10:56:24 2016].958000 msDrawMap(): rendering using outputformat named png24_t (GDAL/PNG).
+[Tue Nov 15 10:56:24 2016].958000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:56:24 2016].958000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:56:25 2016].55000 msDrawMap(): Layer 0 (raster), 0.097s
+[Tue Nov 15 10:56:25 2016].55000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:56:25 2016].55000 msDrawMap() total time: 0.103s
+[Tue Nov 15 10:56:25 2016].822000 msSaveImage(stdout) total time: 0.767s
+[Tue Nov 15 10:56:25 2016].824000 mapserv request processing time (msLoadMap not incl.): 0.872s
+[Tue Nov 15 10:56:25 2016].824000 msFreeMap(): freeing map at 05D9B248.
+[Tue Nov 15 10:56:29 2016].384000 CGI Request 1 on process 8740
+[Tue Nov 15 10:56:29 2016].384000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:56:29 2016].385000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:56:29 2016].420000 mapserv request processing time (msLoadMap not incl.): 0.036s
+[Tue Nov 15 10:56:29 2016].420000 msFreeMap(): freeing map at 05CAB630.
+[Tue Nov 15 10:56:39 2016].891000 CGI Request 1 on process 10692
+[Tue Nov 15 10:56:39 2016].898000 msDrawMap(): rendering using outputformat named png24_t (GDAL/PNG).
+[Tue Nov 15 10:56:39 2016].898000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:56:39 2016].898000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:56:39 2016].989000 msDrawMap(): Layer 0 (raster), 0.090s
+[Tue Nov 15 10:56:39 2016].989000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:56:39 2016].989000 msDrawMap() total time: 0.097s
+[Tue Nov 15 10:56:40 2016].752000 msSaveImage(stdout) total time: 0.763s
+[Tue Nov 15 10:56:40 2016].753000 mapserv request processing time (msLoadMap not incl.): 0.862s
+[Tue Nov 15 10:56:40 2016].753000 msFreeMap(): freeing map at 05CBB248.
+[Tue Nov 15 10:56:42 2016].624000 CGI Request 1 on process 3068
+[Tue Nov 15 10:56:42 2016].624000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:56:42 2016].625000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:56:42 2016].634000 mapserv request processing time (msLoadMap not incl.): 0.010s
+[Tue Nov 15 10:56:42 2016].634000 msFreeMap(): freeing map at 05E3B630.
+[Tue Nov 15 10:56:52 2016].312000 CGI Request 1 on process 7552
+[Tue Nov 15 10:56:52 2016].318000 msDrawMap(): rendering using outputformat named png24_t (GDAL/PNG).
+[Tue Nov 15 10:56:52 2016].318000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:56:52 2016].318000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:56:52 2016].408000 msDrawMap(): Layer 0 (raster), 0.090s
+[Tue Nov 15 10:56:52 2016].408000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 10:56:52 2016].408000 msDrawMap() total time: 0.096s
+[Tue Nov 15 10:56:53 2016].149000 msSaveImage(stdout) total time: 0.741s
+[Tue Nov 15 10:56:53 2016].150000 mapserv request processing time (msLoadMap not incl.): 0.838s
+[Tue Nov 15 10:56:53 2016].150000 msFreeMap(): freeing map at 05DDB248.
+[Tue Nov 15 10:56:54 2016].517000 CGI Request 1 on process 11204
+[Tue Nov 15 10:56:54 2016].517000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:56:54 2016].518000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:56:54 2016].532000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 10:56:54 2016].532000 mapserv request processing time (msLoadMap not incl.): 0.015s
+[Tue Nov 15 10:56:54 2016].532000 msFreeMap(): freeing map at 05D1B648.
+[Tue Nov 15 10:56:56 2016].423000 CGI Request 1 on process 10272
+[Tue Nov 15 10:56:56 2016].423000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:56:56 2016].425000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 10:56:56 2016].438000 mapserv request processing time (msLoadMap not incl.): 0.015s
+[Tue Nov 15 10:56:56 2016].438000 msFreeMap(): freeing map at 05CDB630.
+[Tue Nov 15 10:57:33 2016].214000 CGI Request 1 on process 5520
+[Tue Nov 15 10:57:33 2016].220000 msDrawMap(): rendering using outputformat named png24_t (GDAL/PNG).
+[Tue Nov 15 10:57:33 2016].220000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:57:33 2016].220000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:57:33 2016].221000 drawGDAL(): Unable to access file. Attempt to classify 24bit image, this is unsupported.
+[Tue Nov 15 10:57:33 2016].221000 msDrawMap(): Image handling error. Failed to draw layer named 'raster'.
+[Tue Nov 15 10:57:33 2016].976000 mapserv request processing time (msLoadMap not incl.): 0.762s
+[Tue Nov 15 10:57:33 2016].976000 msFreeMap(): freeing map at 05E7B248.
+[Tue Nov 15 10:57:45 2016].689000 CGI Request 1 on process 8196
+[Tue Nov 15 10:57:45 2016].694000 msDrawMap(): rendering using outputformat named png24_t (GDAL/PNG).
+[Tue Nov 15 10:57:45 2016].694000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:57:45 2016].694000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:57:45 2016].695000 drawGDAL(): Unable to access file. Attempt to classify 24bit image, this is unsupported.
+[Tue Nov 15 10:57:45 2016].695000 msDrawMap(): Image handling error. Failed to draw layer named 'raster'.
+[Tue Nov 15 10:57:46 2016].442000 mapserv request processing time (msLoadMap not incl.): 0.753s
+[Tue Nov 15 10:57:46 2016].442000 msFreeMap(): freeing map at 05D7B248.
+[Tue Nov 15 10:57:49 2016].192000 CGI Request 1 on process 9472
+[Tue Nov 15 10:57:49 2016].196000 msDrawMap(): rendering using outputformat named png24_t (GDAL/PNG).
+[Tue Nov 15 10:57:49 2016].196000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:57:49 2016].196000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:57:49 2016].197000 drawGDAL(): Unable to access file. Attempt to classify 24bit image, this is unsupported.
+[Tue Nov 15 10:57:49 2016].197000 msDrawMap(): Image handling error. Failed to draw layer named 'raster'.
+[Tue Nov 15 10:57:49 2016].930000 mapserv request processing time (msLoadMap not incl.): 0.738s
+[Tue Nov 15 10:57:49 2016].930000 msFreeMap(): freeing map at 05E3B1F8.
+[Tue Nov 15 10:58:04 2016].827000 CGI Request 1 on process 9912
+[Tue Nov 15 10:58:04 2016].832000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:58:04 2016].832000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:58:04 2016].835000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:58:04 2016].835000 drawGDAL(): Unable to access file. Attempt to classify 24bit image, this is unsupported.
+[Tue Nov 15 10:58:04 2016].835000 msDrawMap(): Image handling error. Failed to draw layer named 'raster'.
+[Tue Nov 15 10:58:05 2016].217000 mapserv request processing time (msLoadMap not incl.): 0.390s
+[Tue Nov 15 10:58:05 2016].217000 msFreeMap(): freeing map at 05CEB1F8.
+[Tue Nov 15 10:58:17 2016].809000 CGI Request 1 on process 8740
+[Tue Nov 15 10:58:17 2016].817000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:58:17 2016].817000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:58:17 2016].819000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:58:17 2016].820000 drawGDAL(): Unable to access file. Attempt to classify 24bit image, this is unsupported.
+[Tue Nov 15 10:58:17 2016].820000 msDrawMap(): Image handling error. Failed to draw layer named 'raster'.
+[Tue Nov 15 10:58:18 2016].216000 mapserv request processing time (msLoadMap not incl.): 0.407s
+[Tue Nov 15 10:58:18 2016].216000 msFreeMap(): freeing map at 05CAB1F8.
+[Tue Nov 15 10:58:25 2016].293000 CGI Request 1 on process 5276
+[Tue Nov 15 10:58:25 2016].299000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:58:25 2016].299000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:58:25 2016].302000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:58:25 2016].303000 msGetGDALBandList(): Image handling error. BANDS PROCESSING directive includes illegal band '0', should be from 1 to 3.
+[Tue Nov 15 10:58:25 2016].303000 msDrawMap(): Image handling error. Failed to draw layer named 'raster'.
+[Tue Nov 15 10:58:25 2016].689000 mapserv request processing time (msLoadMap not incl.): 0.396s
+[Tue Nov 15 10:58:25 2016].689000 msFreeMap(): freeing map at 05E6B1F8.
+[Tue Nov 15 10:58:43 2016].934000 CGI Request 1 on process 11116
+[Tue Nov 15 10:58:43 2016].938000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 10:58:43 2016].938000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 10:58:43 2016].941000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 10:58:43 2016].941000 drawGDAL(): Unable to access file. Attempt to classify 24bit image, this is unsupported.
+[Tue Nov 15 10:58:43 2016].942000 msDrawMap(): Image handling error. Failed to draw layer named 'raster'.
+[Tue Nov 15 10:58:44 2016].328000 mapserv request processing time (msLoadMap not incl.): 0.394s
+[Tue Nov 15 10:58:44 2016].328000 msFreeMap(): freeing map at 05D5B1F8.
+[Tue Nov 15 11:00:23 2016].982000 CGI Request 1 on process 11152
+[Tue Nov 15 11:00:23 2016].987000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:00:23 2016].987000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:00:23 2016].990000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 11:00:23 2016].990000 drawGDAL(): Unable to access file. Attempt to classify 24bit image, this is unsupported.
+[Tue Nov 15 11:00:23 2016].990000 msDrawMap(): Image handling error. Failed to draw layer named 'raster'.
+[Tue Nov 15 11:00:24 2016].359000 mapserv request processing time (msLoadMap not incl.): 0.377s
+[Tue Nov 15 11:00:24 2016].359000 msFreeMap(): freeing map at 05CBB1F8.
+[Tue Nov 15 11:00:57 2016].501000 CGI Request 1 on process 7396
+[Tue Nov 15 11:00:57 2016].506000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:00:57 2016].506000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:00:57 2016].509000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 11:00:57 2016].601000 msDrawMap(): Layer 0 (raster), 0.095s
+[Tue Nov 15 11:00:57 2016].601000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:00:57 2016].601000 msDrawMap() total time: 0.100s
+[Tue Nov 15 11:00:58 2016].63000 msSaveImage(stdout) total time: 0.462s
+[Tue Nov 15 11:00:58 2016].65000 mapserv request processing time (msLoadMap not incl.): 0.564s
+[Tue Nov 15 11:00:58 2016].65000 msFreeMap(): freeing map at 05DAB1F8.
+[Tue Nov 15 11:02:55 2016].225000 CGI Request 1 on process 1808
+[Tue Nov 15 11:02:55 2016].230000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:02:55 2016].230000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:02:55 2016].234000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 11:02:55 2016].330000 msDrawMap(): Layer 0 (raster), 0.100s
+[Tue Nov 15 11:02:55 2016].330000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:02:55 2016].330000 msDrawMap() total time: 0.104s
+[Tue Nov 15 11:02:55 2016].724000 msSaveImage(stdout) total time: 0.394s
+[Tue Nov 15 11:02:55 2016].725000 mapserv request processing time (msLoadMap not incl.): 0.500s
+[Tue Nov 15 11:02:55 2016].725000 msFreeMap(): freeing map at 05D4B248.
+[Tue Nov 15 11:02:58 2016].524000 CGI Request 1 on process 7496
+[Tue Nov 15 11:02:58 2016].524000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:02:58 2016].527000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:02:58 2016].542000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 11:02:58 2016].542000 mapserv request processing time (msLoadMap not incl.): 0.018s
+[Tue Nov 15 11:02:58 2016].542000 msFreeMap(): freeing map at 05CDB5D8.
+[Tue Nov 15 11:03:00 2016].471000 CGI Request 1 on process 5236
+[Tue Nov 15 11:03:00 2016].472000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:03:00 2016].475000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:03:00 2016].493000 msQueryByPoint(): Search returned no results. No matching record(s) found.
+[Tue Nov 15 11:03:00 2016].493000 mapserv request processing time (msLoadMap not incl.): 0.022s
+[Tue Nov 15 11:03:00 2016].493000 msFreeMap(): freeing map at 05DDB618.
+[Tue Nov 15 11:03:01 2016].584000 CGI Request 1 on process 7424
+[Tue Nov 15 11:03:01 2016].584000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:03:01 2016].588000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:03:01 2016].599000 mapserv request processing time (msLoadMap not incl.): 0.015s
+[Tue Nov 15 11:03:01 2016].599000 msFreeMap(): freeing map at 05D6B5E8.
+[Tue Nov 15 11:05:34 2016].153000 CGI Request 1 on process 11132
+[Tue Nov 15 11:05:34 2016].153000 msWMSLoadGetMapParams(): WMS server error. Invalid layer(s) given in the LAYERS parameter. A layer might be disabled for this request. Check wms/ows_enable_request settings.
+[Tue Nov 15 11:05:34 2016].516000 mapserv request processing time (msLoadMap not incl.): 0.363s
+[Tue Nov 15 11:05:34 2016].516000 msFreeMap(): freeing map at 05CBB248.
+[Tue Nov 15 11:05:37 2016].840000 CGI Request 1 on process 676
+[Tue Nov 15 11:05:37 2016].840000 msWMSLoadGetMapParams(): WMS server error. Invalid layer(s) given in the LAYERS parameter. A layer might be disabled for this request. Check wms/ows_enable_request settings.
+[Tue Nov 15 11:05:38 2016].224000 mapserv request processing time (msLoadMap not incl.): 0.384s
+[Tue Nov 15 11:05:38 2016].224000 msFreeMap(): freeing map at 05DFB1F8.
+[Tue Nov 15 11:05:47 2016].98000 CGI Request 1 on process 10368
+[Tue Nov 15 11:05:47 2016].104000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:05:47 2016].104000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:05:47 2016].106000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 11:05:47 2016].199000 msDrawMap(): Layer 0 (raster), 0.095s
+[Tue Nov 15 11:05:47 2016].200000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:05:47 2016].200000 msDrawMap() total time: 0.102s
+[Tue Nov 15 11:05:47 2016].711000 msSaveImage(stdout) total time: 0.511s
+[Tue Nov 15 11:05:47 2016].712000 mapserv request processing time (msLoadMap not incl.): 0.614s
+[Tue Nov 15 11:05:47 2016].712000 msFreeMap(): freeing map at 05CAB1F8.
+[Tue Nov 15 11:05:51 2016].811000 CGI Request 1 on process 9624
+[Tue Nov 15 11:05:51 2016].815000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:05:51 2016].815000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:05:51 2016].819000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 11:05:51 2016].915000 msDrawMap(): Layer 0 (raster), 0.100s
+[Tue Nov 15 11:05:51 2016].915000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:05:51 2016].915000 msDrawMap() total time: 0.104s
+[Tue Nov 15 11:05:52 2016].365000 msSaveImage(stdout) total time: 0.450s
+[Tue Nov 15 11:05:52 2016].366000 mapserv request processing time (msLoadMap not incl.): 0.555s
+[Tue Nov 15 11:05:52 2016].366000 msFreeMap(): freeing map at 05D5B248.
+[Tue Nov 15 11:06:00 2016].555000 CGI Request 1 on process 10540
+[Tue Nov 15 11:06:00 2016].555000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:00 2016].559000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:00 2016].567000 mapserv request processing time (msLoadMap not incl.): 0.012s
+[Tue Nov 15 11:06:00 2016].567000 msFreeMap(): freeing map at 05DFB5E8.
+[Tue Nov 15 11:06:08 2016].857000 CGI Request 1 on process 10640
+[Tue Nov 15 11:06:08 2016].857000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:08 2016].860000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:08 2016].871000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:06:08 2016].871000 msFreeMap(): freeing map at 05DBB5F0.
+[Tue Nov 15 11:06:12 2016].463000 CGI Request 1 on process 7520
+[Tue Nov 15 11:06:12 2016].464000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:12 2016].469000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:12 2016].484000 mapserv request processing time (msLoadMap not incl.): 0.021s
+[Tue Nov 15 11:06:12 2016].484000 msFreeMap(): freeing map at 05CFB618.
+[Tue Nov 15 11:06:15 2016].213000 CGI Request 1 on process 9988
+[Tue Nov 15 11:06:15 2016].213000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:15 2016].217000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:15 2016].226000 mapserv request processing time (msLoadMap not incl.): 0.013s
+[Tue Nov 15 11:06:15 2016].226000 msFreeMap(): freeing map at 05DAB578.
+[Tue Nov 15 11:06:17 2016].536000 CGI Request 1 on process 10272
+[Tue Nov 15 11:06:17 2016].536000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:17 2016].541000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:06:17 2016].555000 mapserv request processing time (msLoadMap not incl.): 0.019s
+[Tue Nov 15 11:06:17 2016].555000 msFreeMap(): freeing map at 05D9B5E8.
+[Tue Nov 15 11:06:18 2016].896000 CGI Request 1 on process 7344
+[Tue Nov 15 11:06:18 2016].903000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:06:18 2016].903000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:06:18 2016].906000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 11:06:19 2016].116000 msDrawMap(): Layer 0 (raster), 0.213s
+[Tue Nov 15 11:06:19 2016].116000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:06:19 2016].116000 msDrawMap() total time: 0.220s
+[Tue Nov 15 11:06:19 2016].846000 msSaveImage(stdout) total time: 0.730s
+[Tue Nov 15 11:06:19 2016].848000 mapserv request processing time (msLoadMap not incl.): 0.952s
+[Tue Nov 15 11:06:19 2016].848000 msFreeMap(): freeing map at 05DAB220.
+[Tue Nov 15 11:06:20 2016].233000 CGI Request 1 on process 10512
+[Tue Nov 15 11:06:20 2016].238000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:06:20 2016].238000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:06:20 2016].240000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 11:06:20 2016].446000 msDrawMap(): Layer 0 (raster), 0.208s
+[Tue Nov 15 11:06:20 2016].446000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:06:20 2016].446000 msDrawMap() total time: 0.212s
+[Tue Nov 15 11:06:21 2016].179000 msSaveImage(stdout) total time: 0.733s
+[Tue Nov 15 11:06:21 2016].181000 mapserv request processing time (msLoadMap not incl.): 0.948s
+[Tue Nov 15 11:06:21 2016].181000 msFreeMap(): freeing map at 05DFB178.
+[Tue Nov 15 11:08:00 2016].758000 CGI Request 1 on process 10648
+[Tue Nov 15 11:08:00 2016].758000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:08:00 2016].762000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:08:00 2016].767000 mapserv request processing time (msLoadMap not incl.): 0.009s
+[Tue Nov 15 11:08:00 2016].767000 msFreeMap(): freeing map at 05E2B658.
+[Tue Nov 15 11:09:50 2016].6000 CGI Request 1 on process 10944
+[Tue Nov 15 11:09:50 2016].7000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:09:50 2016].10000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:09:50 2016].16000 mapserv request processing time (msLoadMap not incl.): 0.010s
+[Tue Nov 15 11:09:50 2016].16000 msFreeMap(): freeing map at 05D8B628.
+[Tue Nov 15 11:10:07 2016].151000 CGI Request 1 on process 6924
+[Tue Nov 15 11:10:07 2016].151000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:10:07 2016].154000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:10:07 2016].159000 mapserv request processing time (msLoadMap not incl.): 0.008s
+[Tue Nov 15 11:10:07 2016].159000 msFreeMap(): freeing map at 05CAB628.
+[Tue Nov 15 11:10:19 2016].988000 CGI Request 1 on process 8840
+[Tue Nov 15 11:10:19 2016].988000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:10:19 2016].992000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:10:19 2016].999000 mapserv request processing time (msLoadMap not incl.): 0.011s
+[Tue Nov 15 11:10:19 2016].999000 msFreeMap(): freeing map at 05D9B658.
+[Tue Nov 15 11:10:58 2016].414000 CGI Request 1 on process 10832
+[Tue Nov 15 11:10:58 2016].414000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:10:58 2016].417000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:10:58 2016].423000 mapserv request processing time (msLoadMap not incl.): 0.009s
+[Tue Nov 15 11:10:58 2016].423000 msFreeMap(): freeing map at 05C8B6F8.
+[Tue Nov 15 11:12:27 2016].853000 CGI Request 1 on process 11004
+[Tue Nov 15 11:12:27 2016].854000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:12:27 2016].857000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:12:27 2016].865000 mapserv request processing time (msLoadMap not incl.): 0.012s
+[Tue Nov 15 11:12:27 2016].865000 msFreeMap(): freeing map at 05D4B628.
+[Tue Nov 15 11:12:36 2016].72000 CGI Request 1 on process 8964
+[Tue Nov 15 11:12:36 2016].72000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:12:36 2016].75000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:12:36 2016].82000 mapserv request processing time (msLoadMap not incl.): 0.010s
+[Tue Nov 15 11:12:36 2016].82000 msFreeMap(): freeing map at 05E1B628.
+[Tue Nov 15 11:13:45 2016].37000 CGI Request 1 on process 5520
+[Tue Nov 15 11:13:45 2016].37000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:45 2016].40000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:45 2016].46000 mapserv request processing time (msLoadMap not incl.): 0.009s
+[Tue Nov 15 11:13:45 2016].46000 msFreeMap(): freeing map at 05E0B658.
+[Tue Nov 15 11:13:52 2016].880000 CGI Request 1 on process 8452
+[Tue Nov 15 11:13:52 2016].880000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:52 2016].884000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:52 2016].889000 mapserv request processing time (msLoadMap not incl.): 0.009s
+[Tue Nov 15 11:13:52 2016].889000 msFreeMap(): freeing map at 05D0B628.
+[Tue Nov 15 11:13:54 2016].425000 CGI Request 1 on process 10376
+[Tue Nov 15 11:13:54 2016].425000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:54 2016].428000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:54 2016].436000 mapserv request processing time (msLoadMap not incl.): 0.011s
+[Tue Nov 15 11:13:54 2016].436000 msFreeMap(): freeing map at 05E7B628.
+[Tue Nov 15 11:13:56 2016].72000 CGI Request 1 on process 10004
+[Tue Nov 15 11:13:56 2016].72000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:56 2016].76000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:56 2016].80000 mapserv request processing time (msLoadMap not incl.): 0.008s
+[Tue Nov 15 11:13:56 2016].80000 msFreeMap(): freeing map at 05CCB640.
+[Tue Nov 15 11:13:57 2016].429000 CGI Request 1 on process 10916
+[Tue Nov 15 11:13:57 2016].429000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:57 2016].432000 msRasterQueryByRect(raster): entering.
+[Tue Nov 15 11:13:57 2016].438000 mapserv request processing time (msLoadMap not incl.): 0.009s
+[Tue Nov 15 11:13:57 2016].438000 msFreeMap(): freeing map at 05CFB658.
+[Tue Nov 15 11:19:08 2016].436000 CGI Request 1 on process 10360
+[Tue Nov 15 11:19:08 2016].440000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:19:08 2016].440000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:19:08 2016].443000 msDrawRasterLayerLow(raster): entering.
+[Tue Nov 15 11:19:08 2016].532000 msDrawMap(): Layer 0 (raster), 0.092s
+[Tue Nov 15 11:19:08 2016].532000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:19:08 2016].532000 msDrawMap() total time: 0.096s
+[Tue Nov 15 11:19:08 2016].970000 msSaveImage(stdout) total time: 0.438s
+[Tue Nov 15 11:19:08 2016].971000 mapserv request processing time (msLoadMap not incl.): 0.535s
+[Tue Nov 15 11:19:08 2016].971000 msFreeMap(): freeing map at 05D6B248.
+[Tue Nov 15 11:20:49 2016].260000 CGI Request 1 on process 11148
+[Tue Nov 15 11:20:49 2016].260000 msWMSLoadGetMapParams(): WMS server error. Invalid layer(s) given in the LAYERS parameter. A layer might be disabled for this request. Check wms/ows_enable_request settings.
+[Tue Nov 15 11:20:49 2016].625000 mapserv request processing time (msLoadMap not incl.): 0.365s
+[Tue Nov 15 11:20:49 2016].625000 msFreeMap(): freeing map at 05C9B248.
+[Tue Nov 15 11:21:25 2016].150000 CGI Request 1 on process 6268
+[Tue Nov 15 11:21:25 2016].150000 msWMSLoadGetMapParams(): WMS server error. Missing required parameter LAYERS
+[Tue Nov 15 11:21:25 2016].506000 mapserv request processing time (msLoadMap not incl.): 0.356s
+[Tue Nov 15 11:21:25 2016].506000 msFreeMap(): freeing map at 05CCB120.
+[Tue Nov 15 11:21:48 2016].565000 CGI Request 1 on process 10336
+[Tue Nov 15 11:21:48 2016].566000 msWMSLoadGetMapParams(): WMS server error. Missing required parameter LAYERS
+[Tue Nov 15 11:21:48 2016].903000 mapserv request processing time (msLoadMap not incl.): 0.338s
+[Tue Nov 15 11:21:48 2016].903000 msFreeMap(): freeing map at 05D4B120.
+[Tue Nov 15 11:22:05 2016].362000 CGI Request 1 on process 8804
+[Tue Nov 15 11:22:05 2016].362000 msWMSLoadGetMapParams(): WMS server error. Missing required parameter LAYERS
+[Tue Nov 15 11:22:05 2016].739000 mapserv request processing time (msLoadMap not incl.): 0.377s
+[Tue Nov 15 11:22:05 2016].739000 msFreeMap(): freeing map at 05CBB120.
+[Tue Nov 15 11:22:27 2016].819000 CGI Request 1 on process 7240
+[Tue Nov 15 11:22:27 2016].819000 msWMSLoadGetMapParams(): WMS server error. Invalid layer(s) given in the LAYERS parameter. A layer might be disabled for this request. Check wms/ows_enable_request settings.
+[Tue Nov 15 11:22:28 2016].163000 mapserv request processing time (msLoadMap not incl.): 0.344s
+[Tue Nov 15 11:22:28 2016].163000 msFreeMap(): freeing map at 05CFB278.
+[Tue Nov 15 11:22:57 2016].251000 CGI Request 1 on process 8448
+[Tue Nov 15 11:22:57 2016].257000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:22:57 2016].257000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:22:57 2016].262000 msDrawRasterLayerLow(rgb): entering.
+[Tue Nov 15 11:22:57 2016].357000 msDrawMap(): Layer 0 (rgb), 0.100s
+[Tue Nov 15 11:22:57 2016].357000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:22:57 2016].357000 msDrawMap() total time: 0.105s
+[Tue Nov 15 11:22:57 2016].821000 msSaveImage(stdout) total time: 0.464s
+[Tue Nov 15 11:22:57 2016].823000 mapserv request processing time (msLoadMap not incl.): 0.572s
+[Tue Nov 15 11:22:57 2016].823000 msFreeMap(): freeing map at 05CDB238.
+[Tue Nov 15 11:22:59 2016].589000 CGI Request 1 on process 10900
+[Tue Nov 15 11:22:59 2016].593000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:22:59 2016].593000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:22:59 2016].596000 msDrawRasterLayerLow(highlighted): entering.
+[Tue Nov 15 11:22:59 2016].686000 msDrawMap(): Layer 1 (highlighted), 0.093s
+[Tue Nov 15 11:22:59 2016].686000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:22:59 2016].686000 msDrawMap() total time: 0.097s
+[Tue Nov 15 11:23:00 2016].78000 msSaveImage(stdout) total time: 0.392s
+[Tue Nov 15 11:23:00 2016].79000 mapserv request processing time (msLoadMap not incl.): 0.490s
+[Tue Nov 15 11:23:00 2016].79000 msFreeMap(): freeing map at 05D4B278.
+[Tue Nov 15 11:23:36 2016].316000 CGI Request 1 on process 7604
+[Tue Nov 15 11:23:36 2016].322000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:23:36 2016].322000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:23:36 2016].325000 msDrawRasterLayerLow(rgb): entering.
+[Tue Nov 15 11:23:36 2016].415000 msDrawMap(): Layer 0 (rgb), 0.093s
+[Tue Nov 15 11:23:36 2016].415000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:23:36 2016].415000 msDrawMap() total time: 0.099s
+[Tue Nov 15 11:23:36 2016].821000 msSaveImage(stdout) total time: 0.406s
+[Tue Nov 15 11:23:36 2016].822000 mapserv request processing time (msLoadMap not incl.): 0.506s
+[Tue Nov 15 11:23:36 2016].822000 msFreeMap(): freeing map at 05CAB238.
+[Tue Nov 15 11:23:37 2016].628000 CGI Request 1 on process 11124
+[Tue Nov 15 11:23:37 2016].633000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:23:37 2016].633000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:23:37 2016].636000 msDrawRasterLayerLow(highlighted): entering.
+[Tue Nov 15 11:23:37 2016].726000 msDrawMap(): Layer 1 (highlighted), 0.093s
+[Tue Nov 15 11:23:37 2016].726000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:23:37 2016].726000 msDrawMap() total time: 0.097s
+[Tue Nov 15 11:23:38 2016].137000 msSaveImage(stdout) total time: 0.411s
+[Tue Nov 15 11:23:38 2016].138000 mapserv request processing time (msLoadMap not incl.): 0.510s
+[Tue Nov 15 11:23:38 2016].138000 msFreeMap(): freeing map at 05C9B278.
+[Tue Nov 15 11:24:22 2016].505000 CGI Request 1 on process 5520
+[Tue Nov 15 11:24:22 2016].511000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:24:22 2016].511000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:24:22 2016].516000 msDrawRasterLayerLow(rgb): entering.
+[Tue Nov 15 11:24:22 2016].609000 msDrawMap(): Layer 0 (rgb), 0.098s
+[Tue Nov 15 11:24:22 2016].609000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:24:22 2016].609000 msDrawMap() total time: 0.104s
+[Tue Nov 15 11:24:23 2016].32000 msSaveImage(stdout) total time: 0.423s
+[Tue Nov 15 11:24:23 2016].33000 mapserv request processing time (msLoadMap not incl.): 0.528s
+[Tue Nov 15 11:24:23 2016].33000 msFreeMap(): freeing map at 05D2B238.
+[Tue Nov 15 11:24:31 2016].35000 CGI Request 1 on process 10784
+[Tue Nov 15 11:24:31 2016].39000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:24:31 2016].39000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:24:31 2016].42000 msDrawRasterLayerLow(highlighted): entering.
+[Tue Nov 15 11:24:31 2016].137000 msDrawMap(): Layer 1 (highlighted), 0.098s
+[Tue Nov 15 11:24:31 2016].137000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:24:31 2016].137000 msDrawMap() total time: 0.102s
+[Tue Nov 15 11:24:31 2016].527000 msSaveImage(stdout) total time: 0.390s
+[Tue Nov 15 11:24:31 2016].529000 mapserv request processing time (msLoadMap not incl.): 0.494s
+[Tue Nov 15 11:24:31 2016].529000 msFreeMap(): freeing map at 05E7B278.
+[Tue Nov 15 11:24:35 2016].695000 CGI Request 1 on process 10276
+[Tue Nov 15 11:24:35 2016].695000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:35 2016].699000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:35 2016].709000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:24:35 2016].709000 msFreeMap(): freeing map at 05CCB620.
+[Tue Nov 15 11:24:40 2016].679000 CGI Request 1 on process 10080
+[Tue Nov 15 11:24:40 2016].679000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:40 2016].682000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:40 2016].693000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:24:40 2016].693000 msFreeMap(): freeing map at 05E4B6A8.
+[Tue Nov 15 11:24:42 2016].319000 CGI Request 1 on process 10828
+[Tue Nov 15 11:24:42 2016].319000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:42 2016].322000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:42 2016].332000 mapserv request processing time (msLoadMap not incl.): 0.013s
+[Tue Nov 15 11:24:42 2016].332000 msFreeMap(): freeing map at 05DAB640.
+[Tue Nov 15 11:24:44 2016].66000 CGI Request 1 on process 10564
+[Tue Nov 15 11:24:44 2016].67000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:44 2016].70000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:44 2016].80000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:24:44 2016].80000 msFreeMap(): freeing map at 05CAB6A8.
+[Tue Nov 15 11:24:45 2016].696000 CGI Request 1 on process 9356
+[Tue Nov 15 11:24:45 2016].697000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:45 2016].700000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:45 2016].713000 mapserv request processing time (msLoadMap not incl.): 0.017s
+[Tue Nov 15 11:24:45 2016].713000 msFreeMap(): freeing map at 05E3B660.
+[Tue Nov 15 11:24:47 2016].140000 CGI Request 1 on process 1912
+[Tue Nov 15 11:24:47 2016].140000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:47 2016].143000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:24:47 2016].154000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:24:47 2016].154000 msFreeMap(): freeing map at 05CFB660.
+[Tue Nov 15 11:26:13 2016].341000 CGI Request 1 on process 10908
+[Tue Nov 15 11:26:13 2016].345000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:26:13 2016].345000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:26:13 2016].348000 msDrawRasterLayerLow(rgb): entering.
+[Tue Nov 15 11:26:13 2016].440000 msDrawMap(): Layer 0 (rgb), 0.095s
+[Tue Nov 15 11:26:13 2016].440000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:26:13 2016].440000 msDrawMap() total time: 0.099s
+[Tue Nov 15 11:26:13 2016].862000 msSaveImage(stdout) total time: 0.422s
+[Tue Nov 15 11:26:13 2016].863000 mapserv request processing time (msLoadMap not incl.): 0.522s
+[Tue Nov 15 11:26:13 2016].863000 msFreeMap(): freeing map at 05D2B238.
+[Tue Nov 15 11:26:15 2016].44000 CGI Request 1 on process 9208
+[Tue Nov 15 11:26:15 2016].44000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:26:15 2016].48000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:26:15 2016].56000 mapserv request processing time (msLoadMap not incl.): 0.012s
+[Tue Nov 15 11:26:15 2016].56000 msFreeMap(): freeing map at 05C8B5F8.
+[Tue Nov 15 11:26:23 2016].566000 CGI Request 1 on process 10004
+[Tue Nov 15 11:26:23 2016].566000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:26:23 2016].569000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:26:23 2016].579000 mapserv request processing time (msLoadMap not incl.): 0.013s
+[Tue Nov 15 11:26:23 2016].579000 msFreeMap(): freeing map at 05D9B5F8.
+[Tue Nov 15 11:26:31 2016].128000 CGI Request 1 on process 2128
+[Tue Nov 15 11:26:31 2016].129000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:26:31 2016].132000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:26:31 2016].146000 mapserv request processing time (msLoadMap not incl.): 0.018s
+[Tue Nov 15 11:26:31 2016].146000 msFreeMap(): freeing map at 05D9B578.
+[Tue Nov 15 11:26:36 2016].186000 CGI Request 1 on process 8732
+[Tue Nov 15 11:26:36 2016].186000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:26:36 2016].190000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:26:36 2016].199000 mapserv request processing time (msLoadMap not incl.): 0.013s
+[Tue Nov 15 11:26:36 2016].199000 msFreeMap(): freeing map at 05E4B558.
+[Tue Nov 15 11:27:16 2016].950000 CGI Request 1 on process 9696
+[Tue Nov 15 11:27:16 2016].950000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:27:16 2016].953000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:27:16 2016].962000 mapserv request processing time (msLoadMap not incl.): 0.012s
+[Tue Nov 15 11:27:16 2016].962000 msFreeMap(): freeing map at 05D3B558.
+[Tue Nov 15 11:27:21 2016].883000 CGI Request 1 on process 5688
+[Tue Nov 15 11:27:21 2016].887000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:27:21 2016].887000 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Tue Nov 15 11:27:21 2016].890000 msDrawRasterLayerLow(highlighted): entering.
+[Tue Nov 15 11:27:21 2016].979000 msDrawMap(): Layer 1 (highlighted), 0.092s
+[Tue Nov 15 11:27:21 2016].979000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:27:21 2016].979000 msDrawMap() total time: 0.096s
+[Tue Nov 15 11:27:22 2016].362000 msSaveImage(stdout) total time: 0.383s
+[Tue Nov 15 11:27:22 2016].363000 mapserv request processing time (msLoadMap not incl.): 0.480s
+[Tue Nov 15 11:27:22 2016].364000 msFreeMap(): freeing map at 05C8B278.
+[Tue Nov 15 11:27:23 2016].870000 CGI Request 1 on process 10108
+[Tue Nov 15 11:27:23 2016].870000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:23 2016].873000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:23 2016].885000 mapserv request processing time (msLoadMap not incl.): 0.015s
+[Tue Nov 15 11:27:23 2016].885000 msFreeMap(): freeing map at 05E3B648.
+[Tue Nov 15 11:27:25 2016].950000 CGI Request 1 on process 10396
+[Tue Nov 15 11:27:25 2016].950000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:25 2016].953000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:25 2016].961000 mapserv request processing time (msLoadMap not incl.): 0.011s
+[Tue Nov 15 11:27:25 2016].961000 msFreeMap(): freeing map at 05DBB640.
+[Tue Nov 15 11:27:29 2016].659000 CGI Request 1 on process 808
+[Tue Nov 15 11:27:29 2016].659000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:29 2016].662000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:29 2016].671000 mapserv request processing time (msLoadMap not incl.): 0.012s
+[Tue Nov 15 11:27:29 2016].671000 msFreeMap(): freeing map at 05E1B660.
+[Tue Nov 15 11:27:32 2016].64000 CGI Request 1 on process 8532
+[Tue Nov 15 11:27:32 2016].64000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:32 2016].67000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:32 2016].78000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:27:32 2016].78000 msFreeMap(): freeing map at 05D1B660.
+[Tue Nov 15 11:27:34 2016].630000 CGI Request 1 on process 9056
+[Tue Nov 15 11:27:34 2016].631000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:34 2016].634000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:34 2016].642000 mapserv request processing time (msLoadMap not incl.): 0.012s
+[Tue Nov 15 11:27:34 2016].642000 msFreeMap(): freeing map at 05DFB640.
+[Tue Nov 15 11:27:36 2016].558000 CGI Request 1 on process 6688
+[Tue Nov 15 11:27:36 2016].558000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:36 2016].562000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:36 2016].572000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:27:36 2016].572000 msFreeMap(): freeing map at 05D5B680.
+[Tue Nov 15 11:27:38 2016].595000 CGI Request 1 on process 7604
+[Tue Nov 15 11:27:38 2016].595000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:38 2016].599000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:38 2016].610000 mapserv request processing time (msLoadMap not incl.): 0.015s
+[Tue Nov 15 11:27:38 2016].610000 msFreeMap(): freeing map at 05CFB660.
+[Tue Nov 15 11:27:42 2016].788000 CGI Request 1 on process 6496
+[Tue Nov 15 11:27:42 2016].788000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:42 2016].791000 msRasterQueryByRect(highlighted): entering.
+[Tue Nov 15 11:27:42 2016].802000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:27:42 2016].802000 msFreeMap(): freeing map at 05CEB680.
+[Tue Nov 15 11:27:51 2016].296000 CGI Request 1 on process 5956
+[Tue Nov 15 11:27:51 2016].296000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:27:51 2016].299000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:27:51 2016].310000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:27:51 2016].310000 msFreeMap(): freeing map at 05D3B578.
+[Tue Nov 15 11:27:52 2016].780000 CGI Request 1 on process 10308
+[Tue Nov 15 11:27:52 2016].780000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:27:52 2016].784000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:27:52 2016].793000 mapserv request processing time (msLoadMap not incl.): 0.013s
+[Tue Nov 15 11:27:52 2016].793000 msFreeMap(): freeing map at 05E5B530.
+[Tue Nov 15 11:28:31 2016].469000 CGI Request 1 on process 180
+[Tue Nov 15 11:28:31 2016].469000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:28:31 2016].472000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:28:31 2016].482000 mapserv request processing time (msLoadMap not incl.): 0.013s
+[Tue Nov 15 11:28:31 2016].482000 msFreeMap(): freeing map at 05DAB578.
+[Tue Nov 15 11:28:32 2016].750000 CGI Request 1 on process 5456
+[Tue Nov 15 11:28:32 2016].751000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:28:32 2016].754000 msRasterQueryByRect(rgb): entering.
+[Tue Nov 15 11:28:32 2016].764000 mapserv request processing time (msLoadMap not incl.): 0.014s
+[Tue Nov 15 11:28:32 2016].764000 msFreeMap(): freeing map at 05D9B5F8.
+[Tue Nov 15 11:57:41 2016].954000 CGI Request 1 on process 13048
+[Tue Nov 15 11:57:41 2016].962000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 11:57:41 2016].963000 msDrawMap(): WMS/WFS set-up and query, 0.001s
+[Tue Nov 15 11:57:41 2016].965000 msDrawRasterLayerLow(rgb): entering.
+[Tue Nov 15 11:57:42 2016].60000 msDrawMap(): Layer 0 (rgb), 0.097s
+[Tue Nov 15 11:57:42 2016].60000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 11:57:42 2016].60000 msDrawMap() total time: 0.106s
+[Tue Nov 15 11:57:42 2016].461000 msSaveImage(stdout) total time: 0.401s
+[Tue Nov 15 11:57:42 2016].462000 mapserv request processing time (msLoadMap not incl.): 0.508s
+[Tue Nov 15 11:57:42 2016].462000 msFreeMap(): freeing map at 05CEB1E8.
+[Tue Nov 15 14:32:43 2016].785000 CGI Request 1 on process 11752
+[Tue Nov 15 14:32:43 2016].795000 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Tue Nov 15 14:32:43 2016].796000 msDrawMap(): WMS/WFS set-up and query, 0.001s
+[Tue Nov 15 14:32:43 2016].802000 msDrawRasterLayerLow(rgb): entering.
+[Tue Nov 15 14:32:44 2016].60000 msDrawMap(): Layer 0 (rgb), 0.264s
+[Tue Nov 15 14:32:44 2016].60000 msDrawMap(): Drawing Label Cache, 0.000s
+[Tue Nov 15 14:32:44 2016].60000 msDrawMap() total time: 0.275s
+[Tue Nov 15 14:32:44 2016].455000 msSaveImage(stdout) total time: 0.394s
+[Tue Nov 15 14:32:44 2016].456000 mapserv request processing time (msLoadMap not incl.): 0.671s
+[Tue Nov 15 14:32:44 2016].456000 msFreeMap(): freeing map at 05D5B1E8.
