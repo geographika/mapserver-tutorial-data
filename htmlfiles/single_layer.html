@@ -88,7 +88,9 @@
                 source: new ol.source.TileWMS({
                     url: msAddress + mapfilePath,
                     params: {
-                        LAYERS: 'land', TILED: true, CRS: 'epsg:4326',
+                        LAYERS: 'land',
+                        TILED: true,
+                        CRS: 'epsg:4326',
                         VERSION: '1.3.0',
                         EXCEPTIONS: 'INIMAGE'
                     },

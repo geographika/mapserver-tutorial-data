@@ -45,6 +45,7 @@
             <label for="mapserver-url">MapServer URL: </label>
             <input type="text" id="mapserver-url" value="http://mapserver.geographika.co.uk/cgi-bin/mapserv">
             <label for="mapfile-path">Map file path</label>
+            <label for="mapfile-path">Map file path</label>
             <input type="text" id="mapfile-path" value="/u02/mapfiles/raster.map">
             <label for="radio-1">RGB Raster</label>
             <input id="radio-1" type="radio" name="layer-radio" onclick="handleClick(this);" value="rgb" checked="checked" />
@@ -80,9 +81,8 @@
         var source;
 
         var view = new ol.View({
-            //center: [-4.5703125, 37.265625],
             center: [0, 0],
-            zoom: 2,
+            zoom: 3,
             projection: 'EPSG:4326'
         });
 
@@ -97,7 +97,7 @@
         function updateLayers(layerName) {
 
             if (!layerName) {
-                layerName = 'rgb';
+                layerName = document.querySelector('input[name="layer-radio"]:checked').value;
             }
 
             var msAddress = document.getElementById('mapserver-url').value;
@@ -120,6 +120,8 @@
                     CRS: 'EPSG:4326',
                     VERSION: '1.3.0',
                     EXCEPTIONS: 'INIMAGE'
+                    //,FORMAT: 'jpeg'
+                    ,FORMAT: 'png8'
                 },
                 serverType: 'mapserver',
                 crossOrigin: 'anonymous'
